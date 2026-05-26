@@ -1,5 +1,5 @@
 {
-  "name": "boda-loans-app",
+  "name": "moggo",
   "version": "1.0.0",
   "description": "Motorbike asset financing application form with Supabase storage and WhatsApp routing.",
   "main": "server.js",
